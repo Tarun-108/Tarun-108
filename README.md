@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-108&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-108" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Clean Architecture, Jepack Compose**
 
-- 💬 Ask me about **Kotlin, Java, Android, Nodejs**
+- 💬 Ask me about **Kotlin, Java, Android**
 
 - 📫 How to reach me **tarunstu125@gmail.com**
 
