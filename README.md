@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">An Android Developer</h3>
+<h2 align="center">An Android Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-108&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-108" /> </p>
 
