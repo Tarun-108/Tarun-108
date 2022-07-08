@@ -25,6 +25,6 @@
 
 
 
-<p align="center">&nbsp;<img align="left" width="480" src="https://github-readme-stats.vercel.app/api?username=tarun-108&show_icons=true&locale=en" alt="tarun-108" />
-<img align="right" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-108&" alt="tarun-108" /></p>
+<p align="center">&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=tarun-108&show_icons=true&locale=en" alt="tarun-108" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-108&" alt="tarun-108" /></p>
 
