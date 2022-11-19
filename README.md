@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h2 align="center">An Application Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-108&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-108" /> </p>
 
 - 💬 Ask me about **Android, Fluter & NodeJS**
 
