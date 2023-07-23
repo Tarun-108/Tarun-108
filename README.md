@@ -37,6 +37,3 @@
 
 [![@tarun108's Holopin board](https://holopin.me/tarun108)](https://holopin.io/@tarun108)
 
-<p align="center">&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=tarun-108&show_icons=true&locale=en" alt="tarun-108" />
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-108&count_private=true" alt="tarun-108" /></p>
-
