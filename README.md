@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Application Development using android, flutter or nodejs with java, kotlin, dart and javascript**
 
-- 💡 Currently learning **Python and related application development tech** 
+- 💡 Currently learning **Python and related application tech** 
 
 - 📫 How to reach me **tarunstu125@gmail.com**
 
