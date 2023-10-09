@@ -2,7 +2,9 @@
 <h2 align="center">An Application Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💬 Ask me about **Android, Fluter & NodeJS** 
+- 💬 Ask me about **Application Development using android, flutter or nodejs with java, kotlin, dart and javascript**
+
+- 💡 Currently learning **Python and related application development tech** 
 
 - 📫 How to reach me **tarunstu125@gmail.com**
 
