@@ -1,4 +1,5 @@
-![Header](https://github.com/Tarun-108/Tarun-108/assets/76252839/bb042217-2d77-4a30-83ef-2e3bc46c2d50)
+
+![Header](https://github.com/Tarun-108/Tarun-108/assets/76252839/bb582e4d-44f7-4875-b75e-276121ea3403)
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
