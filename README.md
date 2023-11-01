@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tarun Shrivastava</h1>
-<h2 align="center">An Application Developer</h2>
+![Header](https://github.com/Tarun-108/Tarun-108/assets/76252839/bb042217-2d77-4a30-83ef-2e3bc46c2d50)
+
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💬 Ask me about **Application Development using android, flutter or nodejs with java, kotlin, dart and javascript**
